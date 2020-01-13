@@ -2,7 +2,7 @@
 Projects created during the Data Analytics bootcamp at Iron Hack, Paris
 
 * Project 1: Guess The Number Game
-            * Python functions
+            - Python functions
             
 * Project 2: Royal Family Calendar
             * Python functions
