@@ -13,6 +13,8 @@ I investigate:
 * Brexit's effect
 * Whether it is the jury or the viewers who dislike the UK
 
+The data used in this project is from kaggle.com and covers the voting results, by and to country, from 1975 to 2019.
+
 In this project you will see examples of:
 
 * Data Cleaning
