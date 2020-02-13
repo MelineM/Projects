@@ -12,6 +12,8 @@ Solar radiation levels depend on:
 
 With this is mind, which supervised learning model is the best for predicting solar radiation levels?
 
+The data used in this project was collected at the HI-SEAS weather station across 4 months (Sept - Dec 2016).
+
 In this project you will find:
 
 * Data cleaning
